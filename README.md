@@ -48,10 +48,10 @@ TaskFlow is a RESTful API backend for a task management system. It provides auth
 ```bash
 # 1. Clone the repository
 git clone https://github.com/saivarsha17/taskflow-saivarsha17
-cd backend
+cd taskflow-saivarsha17/backend
 
 # 2. Create .env file (required variables)
-cp cp .env.example .env
+cp .env.example .env
 
 # 3. Start all services (PostgreSQL + API server)
 docker compose up
