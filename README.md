@@ -47,7 +47,7 @@ TaskFlow is a RESTful API backend for a task management system. It provides auth
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/saivarsha17/taskflow-taskflow
+git clone https://github.com/saivarsha17/taskflow-saivarsha17
 cd backend
 
 # 2. Create .env file (required variables)
