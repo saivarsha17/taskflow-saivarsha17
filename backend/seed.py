@@ -121,7 +121,7 @@ def seed_data():
 
 if __name__ == '__main__':
     try:
-       
+        clear_data()
         seed_data()
     except Exception as e:
         print(f"Error: {e}")
